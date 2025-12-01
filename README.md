@@ -22,11 +22,8 @@ Dashboard analisis SDM komprehensif yang menganalisis pola attrition karyawan, m
 Memberikan rekomendasi berbasis data untuk mengurangi attrition sebesar 30% dan meningkatkan kepuasan karyawan melalui optimasi beban kerja, program pencegahan burnout, dan perbaikan jalur karir.
 
 **File yang Tersedia**  
-- `employee_analytics.ipynb` - Preprocessing & analisis data Python  
-- `People_Analytics_Dashboard.pbix` - Dashboard Power BI interaktif  
-- `employee_dataset.csv` - Dataset sampel (100K records)  
+- `mini project 4 by shelyn.ipynb` - Preprocessing & analisis data Python  
+- `mini project 4 by shelyn yaasinta.pbix` - Dashboard Power BI interaktif  
+- `data cleaned.csv` - Dataset sampel (100K records)  
 - `README.md` - Dokumentasi proyek  
 
----
-
-**Sempurna untuk GitHub bang!** 🚀 Ringkas, professional, dan cocok untuk portfolio data analytics. Mau ada penyesuaian lagi?
